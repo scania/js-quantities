@@ -121,8 +121,8 @@ SOFTWARE.
 
     /* volume */
     "<liter>" : [["l","L","liter","liters","litre","litres"], 0.001, "volume", ["<meter>","<meter>","<meter>"]],
+    "<gallonus>":  [["galus","gallonus","gallonsus"], 0.003785411784, "volume", ["<meter>","<meter>","<meter>"]],
     "<gallon>":  [["gal","gallon","gallons"], 0.00454609188, "volume", ["<meter>","<meter>","<meter>"]],
-    "<gallonimp>":  [["galimp","gallonimp","gallonsimp"], 0.00454609188, "volume", ["<meter>","<meter>","<meter>"]],
     "<quart>":  [["qt","quart","quarts"], 0.00094635295, "volume", ["<meter>","<meter>","<meter>"]],
     "<pint>":  [["pt","pint","pints"], 0.000473176475, "volume", ["<meter>","<meter>","<meter>"]],
     "<cup>":  [["cu","cup","cups"], 0.000236588238, "volume", ["<meter>","<meter>","<meter>"]],
