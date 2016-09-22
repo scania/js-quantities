@@ -1,6 +1,7 @@
 /*!
+The MIT License (MIT)
 Copyright © 2006-2007 Kevin C. Olbrich
-Copyright © 2010-2013 LIM SAS (http://lim.eu) - Julien Sanchez
+Copyright © 2010-2016 LIM SAS (http://lim.eu) - Julien Sanchez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -1959,7 +1960,7 @@ SOFTWARE.
   QtyError.prototype = Object.create(Error.prototype, {constructor: { value: QtyError }});
   Qty.Error = QtyError;
 
-  Qty.version = "1.6.2";
+  Qty.version = "1.6.3";
 
   return Qty;
 }));
